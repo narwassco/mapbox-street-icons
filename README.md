@@ -1,2 +1,2 @@
 # mapbox-street-icons
-It manages SVG icons for water assets together with Mapbox Satellite icons.
+It manages SVG icons for customized water assets together with Mapbox Street icons.
